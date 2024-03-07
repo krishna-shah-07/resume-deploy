@@ -18,7 +18,7 @@ NAME = "Krishna Shah"
 DESCRIPTION = """
 Machine Learning Engineer | Writer 
 """
-EMAIL = "krishnashah131103@gmail.com"
+EMAIL = "krishnashah.ce@gmail.com"
 SOCIAL_MEDIA = {
     "LinkedIn": "https://www.linkedin.com/in/krishna-shah-104b711a7/",
     "GitHub": "https://github.com/krishna-shah-07",
@@ -88,9 +88,9 @@ st.subheader("Hard Skills")
 st.write("---")
 st.write(
     """
-- 👩‍💻 Programming: Python (Scikit-learn, Pandas), JAVA, SQL, FLUTTER
+- 👩‍💻 Programming: Python (Scikit-learn, Pandas), JAVA, C, C++, SQL
 - 📊 Data Visulization: PowerBi, Tableau, MS Excel
-- 📚 Modeling: Logistic regression, linear regression, decition trees
+- 📚 Machine Leraning: Logistic regression, linear regression, CNN, RNN
 - 🗄️ Databases: Oracle, MySQL, Firebase, MS SQL
 """
 )
